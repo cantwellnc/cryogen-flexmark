@@ -11,4 +11,5 @@
                  [com.vladsch.flexmark/flexmark-ext-footnotes "0.60.2"]
                  [com.vladsch.flexmark/flexmark-ext-gfm-strikethrough "0.60.2"]
                  [com.vladsch.flexmark/flexmark-ext-superscript "0.60.2"]
-                 [com.vladsch.flexmark/flexmark-ext-tables "0.60.2"]])
+                 [com.vladsch.flexmark/flexmark-ext-tables "0.60.2"]
+                 [com.vladsch.flexmark/flexmark-ext-gitlab "0.60.2"]])
